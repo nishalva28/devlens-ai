@@ -4,7 +4,7 @@ DevLens AI is a production-incident intelligence platform that helps engineering
 
 ## Status
 
-This repository is being built incrementally. The first milestone is a local-first MVP using Java, Spring Boot, React, MySQL, Spring AI, and Ollama.
+This repository is being built incrementally. The first milestone is a local-first MVP using Java, Spring Boot, React, PostgreSQL with pgvector, Spring AI, and Ollama.
 
 ## Project principles
 
